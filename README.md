@@ -16,8 +16,8 @@ Some questions are solved using both **Spark Core** and **Spark SQL** to highlig
 
 Each folder corresponds to a set of related questions. Inside each folder, you'll find:
 
-- `README.md`: Describes the questions and context.
-- `*.ipynb`: Jupyter notebook(s) containing the solution(s).
+- One or more Jupyter notebooks (`.ipynb`) containing the solution(s).  
+- A subfolder containing one or more `.txt` files that include the question statements.
 
 ## 📚 Table of Contents
 
