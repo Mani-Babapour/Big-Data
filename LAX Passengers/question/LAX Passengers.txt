@@ -1,0 +1,9 @@
+1. Use lax_passengers.csv. Write a program “BusyMonth” in Spark that finds each month when the number of passengers travelling through Terminals 1 to 8 and Tom Bradley International Terminal collectively exceeds (i.e., greater than) 5 million in the month. Report the months and the number of passengers in each month as follows:
+
+01/2006		5,001,008
+08/2006		6,000,134
+…
+-----------------------------------------------------------------------------------------
+Implement this solution twice:
+Once using Spark Core (RDD)
+Once using Spark SQL

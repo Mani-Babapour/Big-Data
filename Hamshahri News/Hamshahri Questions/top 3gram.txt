@@ -1,0 +1,35 @@
+remove stopwords
+normalize data
+
+
+		word 	||		News filename
+		=============================
+		a s q		||	N1[5]		N66[2]
+		s w	q	||	N1[2]
+		w a	q	||	N1[1]		N56[6]		N7[11]		N55[1]
+		q a	q	||	N2[6]		N3[2]		N4[8]
+		.
+		.
+		.
+		.
+
+======================================
+		word 	||		News filename
+		=============================
+		a s	q	||	7
+		s w	q	||	2
+		w a	q	||	19
+		q a	q	||	16
+		.
+		.
+		.
+		.
+
+top(30)
+		w a	q	||	19
+		q a	q	||	16
+		a s	q	||	7
+
+
+
+

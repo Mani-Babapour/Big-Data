@@ -1,0 +1,13 @@
+remove stopwords
+normalize data
+
+		word 	||		News filename
+		=============================
+		a s		||	N1[5]
+		s w		||	N1[2]
+		w a		||	N1[1]
+		q a		||	N2[6]		N3		N4
+		.
+		.
+		.
+		.

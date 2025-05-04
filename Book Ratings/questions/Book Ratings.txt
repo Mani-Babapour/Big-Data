@@ -1,0 +1,13 @@
+Write a program using the Spark framework that uses the three specified datasets (Book-Ratings, Books, and Users) to show the average (Avg) rating each book has received and also generate a new dataset matching the following fields
+
+(username; book title; username’ rate; Book Avg’ rate)
+
+-----------------------------------------------------------------------------------------------
+Implement this solution twice:
+Once using Spark Core (RDD)
+Once using Spark SQL
+-----------------------------------------------------------------------------------------------
+Features of Our Datasets:
+Users => "UserID";"USERNAME";"Location";"Age"
+Books => "ISBN";"BookTitle";"BookAuthor";"YearOfPublication";"Publisher";"ImageURLS";"ImageURLM";"ImageURLL"
+Ratings => "userid";"isbn";"rate"

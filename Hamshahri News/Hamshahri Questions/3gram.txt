@@ -1,0 +1,11 @@
+remove stopwords
+normalize data
+
+word 	||		News filename
+=============================
+a s w	||	N1(5)
+s w a	||	N1(2)
+.
+.
+.
+.
